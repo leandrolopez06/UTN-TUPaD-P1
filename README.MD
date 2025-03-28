@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Lopez Leandro*  
-- **Comisión:** M2025-3*  
+- **Nombre:** Lopez Leandro  
+- **Comisión:** M2025-3  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
